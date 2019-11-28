@@ -1,0 +1,54 @@
+.header{
+    
+    background-color: aqua;
+    width: 200vh;
+    height: 10vh;
+    font-size: 100px;     
+}
+
+.header>span{
+    
+    color: red;
+    position: absolute;
+    left: 79vh;
+}
+
+#button1{
+    
+    
+    position: absolute;
+    left: 20vh;
+    top: 5.5vh;
+    background-color: orangered;
+    border: none;
+    border-radius: 7px;
+    height: 4.5vh;
+    width: 10vh;
+    
+}
+#button2{
+    
+    
+    position: absolute;
+    left: 8vh;
+    top: 5.5vh;
+    background-color: orangered;
+    border: none;
+    border-radius: 7px;
+    height: 4.5vh;
+    width: 10vh;
+    
+}
+#button3{
+    
+    
+    position: absolute;
+    left: 32vh;
+    top: 5.5vh;
+    background-color: orangered;
+    border: none;
+    border-radius: 7px;
+    height: 4.5vh;
+    width: 10vh;
+    
+}

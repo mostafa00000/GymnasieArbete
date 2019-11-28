@@ -1,16 +1,22 @@
 .header{
     
-    background-color: aqua;
+    background-color: #f0f4f5;
     width: 200vh;
     height: 10vh;
-    font-size: 100px;     
+    font-size: 100px;
+    margin-top: -9px;
+    margin-left: -9px;
+    margin-right: -9px;
+    
+
 }
 
 .header>span{
     
-    color: red;
+    color: #8c1515;
     position: absolute;
     left: 79vh;
+    
 }
 
 #button1{
@@ -18,37 +24,39 @@
     
     position: absolute;
     left: 20vh;
-    top: 5.5vh;
-    background-color: orangered;
+    top: 3vh;
+    background-color: #8c1515;
     border: none;
     border-radius: 7px;
     height: 4.5vh;
     width: 10vh;
-    
+    color: white;
 }
 #button2{
     
     
     position: absolute;
     left: 8vh;
-    top: 5.5vh;
-    background-color: orangered;
+    top: 3vh;
+    background-color: #8c1515;
     border: none;
     border-radius: 7px;
     height: 4.5vh;
     width: 10vh;
-    
+    color: white;
+    font-size: bold;
 }
 #button3{
     
     
     position: absolute;
-    left: 32vh;
-    top: 5.5vh;
-    background-color: orangered;
+    left: 170vh;
+    top: 3vh;
+    background-color: #8c1515;
     border: none;
     border-radius: 7px;
     height: 4.5vh;
     width: 10vh;
+    color: white;
     
 }

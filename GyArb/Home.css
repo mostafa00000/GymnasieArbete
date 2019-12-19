@@ -41,9 +41,8 @@ a{
   left:0;
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0); backface-visibility: hidden;
-  scale(1.0, 1.0);
     transform: translateZ(0);
-  background:#1B2030 url(https://images.unsplash.com/photo-1571993142257-eae0b44cf0f1?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ) 50% 0 no-repeat;
+  background:#1B2030 url(https://i.ytimg.com/vi/-r-3EQ4ppvs/maxresdefault.jpg) 50% 0 no-repeat;
   background-size:100%;
   background-attachment:fixed;
   animation: grow 360s  linear 10ms infinite;
@@ -124,7 +123,7 @@ a{
 }
 .content{  
   padding:5% 10%;
-  text-align:justify
+  text-align:center;
 }
 .btn{
   color:#333;
@@ -139,3 +138,19 @@ a{
 .twtr{
   margin-top:100px
 }.btn.twtr:after{content:"\1F426";padding-left:5px}
+
+#tabs > a {
+    
+    
+    background-color: antiquewhite;
+    
+}
+
+
+#tabs { 
+
+
+    background-color: darkgray;
+    
+
+}
